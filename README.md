@@ -51,6 +51,10 @@ and try to answer questions about YouTube trending like views, likes, dislikes, 
 
        
 * Data Warehousing: build a star schema dimension model using Talend open-source
+    * SQL Metadata
+
+      ![schema](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/303dc13f-ba9d-40ca-a8f6-b479a9511a15)
+
     * ERD Diagram
       
       ![youtube dw2](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/1369ab1d-fecd-4aba-845c-c2e80717c91c)
