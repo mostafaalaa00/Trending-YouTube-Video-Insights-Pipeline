@@ -39,15 +39,19 @@ and try to answer questions about YouTube trending like views, likes, dislikes, 
 * Data Integration & ETL Process: talend data integration tool to extract, clean, transform, and load it into a database
     * Data integration with Talend to load JSON and CSV as tables in MYSQL
       * Date Cleaning Map
+        
         ![load csv map](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/db87f0ab-bf7e-4ae0-b3ee-fc34be02b44b)
 
       * JSON to SQL
+        
         ![load json](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/463e467e-431d-426e-9af0-7e09feb14054)
 
       * CSV to SQL
+        
         ![load csv](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/6e0b41e4-d264-4c7d-b94e-da552ed416d1)
 
      * Final Result Table (after concatenation)
+       
        ![final result table2](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/8ae3ddab-96c0-4d82-8254-2107f4950700)
 
        
