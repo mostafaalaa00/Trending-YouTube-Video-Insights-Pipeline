@@ -4,6 +4,11 @@
 In the Trending YouTube Video Insights Pipeline Project, we create a data pipeline for the top trending videos on the platform using data from ten countries. and try to answer questions about YouTube trending like views, likes, dislikes, and other factors that determine or improve a video's chance of becoming a trend
 
 ### Objective
+
+* Youtube Trending Video Architecture Model
+   ![Youtube Trending Video Architecture](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/d41d4b3f-11a7-401a-9fb1-0f896419d299)
+
+
 * Data Source: reading data from multiple sources CSV, JSON, and SQL
     * JSON Files
        * [CA_category_id.json](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/files/15142439/CA_category_id.json)
