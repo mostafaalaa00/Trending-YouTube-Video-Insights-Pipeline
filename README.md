@@ -52,12 +52,16 @@ and try to answer questions about YouTube trending like views, likes, dislikes, 
        
 * Data Warehousing: build a star schema dimension model using Talend open-source
     * ERD Diagram
+      
       ![youtube dw2](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/1369ab1d-fecd-4aba-845c-c2e80717c91c)
     * Date Dimension
+      
       ![Date Dim](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/c1bd633c-1a61-4e67-be9e-e7d1b9e0ba60)
     * Video Dimension
-        ![video dim](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/b796ea93-c495-4f84-8528-6c5ad5c75f21)
+      
+      ![video dim](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/b796ea93-c495-4f84-8528-6c5ad5c75f21)
     * Fact Measures (views, likes, dislikes, comments)
-       ![fact](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/8de71cc7-4334-41c4-a761-3ba7215a4a09)
+      
+      ![fact](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/8de71cc7-4334-41c4-a761-3ba7215a4a09)
 
 * Visualization: Utilize Microsoft Power-Bi to transform data into valuable insight dashboard
