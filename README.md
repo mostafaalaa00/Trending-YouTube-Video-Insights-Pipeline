@@ -79,3 +79,7 @@ In the Trending YouTube Video Insights Pipeline Project, we create a data pipeli
       ![fact](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/8de71cc7-4334-41c4-a761-3ba7215a4a09)
 
 * Visualization: Utilize Microsoft Power-Bi to transform data into valuable insight dashboard
+
+ ![Screenshot 2024-04-29 222332](https://github.com/mostafaalaa00/Trending-YouTube-Video-Insights-Pipeline/assets/61460174/71331501-499b-43d2-9857-9ea1708fddbb)
+
+  
